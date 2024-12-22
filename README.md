@@ -1,4 +1,4 @@
-# Get Fixed
+# Fix It Now
 UpWork Mobile App Design Clone created with React Native framework.
 
 dependencies:
